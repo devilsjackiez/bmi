@@ -108,10 +108,10 @@
                 <?php
                 error_reporting(0);
                 $w = $_POST['weightIn'];
-                $h = $_POST['HeightIn']/100;
+                $h = $_POST['HeightIn'] / 100;
                 $h2 = $h * $h;
                 $Cal = ($w / $h2);
-                $value = number_format($Cal,2);
+                $value = number_format($Cal, 2);
                 ?>
                 <div class="panel" style="background-color: #008300; color: white;font-weight: 600;">
                     <h2 style="padding-left: 10px;"><?php echo $value; ?></h2>
