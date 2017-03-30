@@ -99,7 +99,7 @@
                     </div>
                     <div class="form-group">
                         <label for="pwd">Height (cm.) / ส่วนสูง</label>
-                        <input type="password" class="form-control" id="pwd" name="HeightIn">
+                        <input type="text" class="form-control" id="pwd" name="HeightIn">
                     </div>
                     <div class="form-group">
                         <input type="submit" class="btn btn-success" id="pwd">
