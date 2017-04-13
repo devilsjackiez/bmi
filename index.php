@@ -4,12 +4,13 @@
 <head>
 
     <meta charset="utf-8">
+    <link rel="shortcut icon" href="img/leave.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Business Casual - Start Bootstrap Theme</title>
+    <title>Mild WebSite</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -90,10 +91,12 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                            <img class="img-responsive img-full" src="img/M1.jpg" alt="" style="width: 100px;height: 800px;">
+                            <img class="img-responsive img-full" src="img/M1.jpg" alt=""
+                                 style="width: 100px;height: 800px;">
                         </div>
                         <div class="item">
-                            <img class="img-responsive img-full" src="img/M2.jpg" alt="" style="width: auto;height: 800px;">
+                            <img class="img-responsive img-full" src="img/M2.jpg" alt=""
+                                 style="width: auto;height: 800px;">
                         </div>
                     </div>
 
